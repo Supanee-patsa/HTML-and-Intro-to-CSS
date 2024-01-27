@@ -1,0 +1,51 @@
+h1{
+    color:rgb(35, 3, 174);
+    font-size: 40px;
+    font-weight: 600;
+    font-style: oblique;
+    text-align: center;
+    background-color: rgb(236, 29, 29, 0.6);
+
+}
+h2{
+    color:rgb(220, 0, 143);
+    font-style: oblique;
+    text-align: center;
+
+}
+h3{
+    color: rgb(245, 244, 244);
+    font-style: italic;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+ .stockholmtravelguid-section {
+    background-color: crimson;
+ }
+
+body {
+    background-image: url(../images/stockholm.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: deeppink;
+    border-radius: 50%;
+    box-shadow: 20px plum;
+}
+section{
+    color: aliceblue;
+}
+nav{
+    background-color: rgb(240, 172, 116);
+}
+footer {
+    background-color: burlywood;
+}
